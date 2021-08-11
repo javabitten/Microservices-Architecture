@@ -96,5 +96,8 @@ p.s 9296 is the port number of the **APP 6: GIT HUB Repo for Common Configs**
 
 
 
+Distributed Log Tracing:
 
+ you are sending one request and that one particular request is traverse to many APIs.
+to trace if there is any or many error is very difficult:
 
