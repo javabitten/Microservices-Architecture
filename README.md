@@ -73,7 +73,7 @@ which of the srevices are not working and will run the fall back methods and not
 we will implement the Hystrix libraries and dashboard so that we could identify which service is down.
 
 
-**APP 6: GIT HUB Repo for Common Configs**
+**APP 5: GIT HUB Repo for Common Configs**
 
 Eureka client config are common for all the applications arround our application context, we will create a new app named CloudConfigServer
 
